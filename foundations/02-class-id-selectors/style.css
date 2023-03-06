@@ -1,0 +1,20 @@
+.one {
+    background-color: #bf5151;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.two {
+    font-size: x-large;
+}
+
+#one {
+    color: blue;
+    font-size: xx-large;
+}
+
+#two {
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: larger;
+}
