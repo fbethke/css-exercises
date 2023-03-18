@@ -12,6 +12,7 @@ img {
   font-weight: 900;
 }
 
+
 /* do not edit this footer */
 .footer {
   position: fixed;
@@ -24,3 +25,25 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.title-flex {
+  display: flex;
+  justify-content: center;
+}
+
+.images-texts {
+  display: flex;
+  margin-top: 32px;
+  gap: 52px;
+  justify-content: center;
+}
+
+.image-text-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  flex-basis: 200px;
+  flex-wrap: wrap;
+}
+
